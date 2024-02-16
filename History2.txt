@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Hi, this is a history2 file, Good thing, this thing is done by me
-=======
-Hi, this is a history2 file, Good thing
+ Hi, this is a history2 file, Good thing, this thing is done by me
+ Hi, this is a history2 file, Good thing
 yeah this thing is done by suresh
->>>>>>> refs/remotes/origin/main
+ This things is done by me only
